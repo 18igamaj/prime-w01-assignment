@@ -1,7 +1,11 @@
 /* Give your page a fun background color */
-
+body { 
+    background-color: burlywood;
+}
 /* Make the header and footer a different color from the background */
-
+h1 { color: blueviolet;
+    text-align: center;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
