@@ -6,6 +6,28 @@ body {
 h1 { color: blueviolet;
     text-align: center;
 }
+h2 {
+    color: rgb(20, 72, 118);
+    border: 4cm;
+    text-align: center;
+}
+h3 {color: black;}
+
+p{
+    color: blanchedalmond;
+
+}
+.img-Kite {
+    border: 5px solid #101010;
+    padding-left: 200px;
+    padding-right: 100px;
+width: 1000px;
+ border: 100cm;
+}
+li{
+    text-align: center;
+    font-family: sans-serif;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
