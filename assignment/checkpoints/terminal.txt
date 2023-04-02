@@ -34,7 +34,7 @@ to show the modifications you made and if they are green or red. green meaning t
 
 # 9 - What does the command 'git add .' do?
 
-it adds your modifications onto the server so it is ready to be pushed
+it adds your modifications onto all the files so it is ready to be pushed
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push 
+git push origin/main 
